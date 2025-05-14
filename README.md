@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612">
-    <img src="https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/f9b84b6c-a444-4296-bb33-0d6322896cba" alt="Banner" width="720">
+    <img src="https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/f9b84b6c-a444-4296-bb33-0d6322896cba" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
@@ -12,7 +12,7 @@
   <p>Retail Data Pipeline with Terraform, Airflow, GCP BigQuery, dbt, Soda, and Looker</p>
     <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612/" target="_blank">Dashboard</a>
     📊 
-    <a href="https://github.com/Hamagistral/OnlineRetail-DataEng" target="_blank">Request Feature</a>
+    <a href="https://github.com/Volodymyrdev25/Dashboard-OnlineRetail" target="_blank">Request Feature</a>
 </div>
 <br>
 
@@ -91,16 +91,16 @@ The end-to-end data pipeline includes the following steps:
   
 You can find the detailed information on the diagram below:
 
-![Architecture](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/43a6bf65-d5c2-45fb-8e22-08ec27d700ef)
+![Architecture](https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/43a6bf65-d5c2-45fb-8e22-08ec27d700ef)
 
 ### 🔧 Pipeline Architecture
-![onlineretail-arch](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/9ce4a822-3c4c-4371-93b0-ebbaeb4df67d)
+![onlineretail-arch](https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/9ce4a822-3c4c-4371-93b0-ebbaeb4df67d)
 
 ### 🌪️ Pipeline on Airflow
-![airflowretail](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/70df1a85-7c22-4ffb-afcc-01a6b67e99c6)
+![airflowretail](https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/70df1a85-7c22-4ffb-afcc-01a6b67e99c6)
 
 ### ⚙️ Data Modeling
-![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/8e901a41-b830-4266-81b6-22f448d7f950)
+![image](https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/8e901a41-b830-4266-81b6-22f448d7f950)
 
 ### 🛠️ Technologies Used
 
@@ -121,7 +121,7 @@ You can find the detailed information on the diagram below:
 First, clone this repository.
 
 ```
-git clone https://github.com/Hamagistral/OnlineRetail-DataEng.git
+git clone https://github.com/Volodymyrdev25/Dashboard-OnlineRetail.git
 ```
 
 #### 1. Pre-requisites
@@ -204,13 +204,5 @@ You should also be able to access your Postgres Database at 'localhost:5432/post
 ## 📋 Credits
 
 - This Project is inspired by the recent video of the [YouTube Channel Data With Marc](https://www.youtube.com/watch?v=DzxtCxi4YaA)  
-- Readme inspired by this [Project](https://github.com/SVizor42/DE_Zoomcamp/tree/main/Project)
-
-<a name="contact"></a>
-## 📨 Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
 
 
