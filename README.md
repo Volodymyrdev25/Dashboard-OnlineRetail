@@ -1,11 +1,8 @@
 <div align="center">
-  <a href="https://lookerstudio.google.com/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612">
-    <img src="https://github.com/Volodymyrdev25/Dashboard-OnlineRetail/assets/66017329/f9b84b6c-a444-4296-bb33-0d6322896cba" alt="Banner" width="720">
-  </a>
 
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">👨‍🔧 Online Retail Data Pipeline 👷</h1></summary>
+      <summary><h1 style="display: inline-block;">Online Retail Data Pipeline</h1></summary>
     </ul>
   </div>
   
